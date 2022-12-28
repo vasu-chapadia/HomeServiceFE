@@ -1,0 +1,120 @@
+.view-all-btn{
+    color: white;
+    float: right;
+    margin-left: 20px;
+    margin-top: 18px;
+    padding: 7px 10px;
+    background: #6415FF;
+    border-radius: 20px;
+}
+
+.view-more-text{
+    font-weight: bold
+}
+
+.slider-container{
+    margin-top: 50px;
+}
+
+
+.search{    
+    display: flex;
+    margin-bottom: 7%;
+    justify-content: space-around;
+}
+
+.search.countrySearch{
+    width: 30%;
+}
+
+.categorySearch{
+    margin-top: 5px; 
+    width: 100%
+}
+
+
+.listTitle{
+    padding-left: 20px;
+    font-weight: bold;
+}
+
+.categoriesPaper{
+    margin: 40px;
+}
+
+.categoriesDescription{
+    font-weight: bold;
+}
+
+.singleCategoryTitle{
+    width: 100%
+}
+
+.singleCategoryImg{
+    margin-bottom: 2em; 
+    display: flex; 
+    padding: 20px
+}
+
+.singleCategoryImg p{
+    margin-left: 20px;
+}
+
+.singleCategoryMain{
+    margin-bottom: 2em; 
+    display: flex; 
+    padding: 20px;
+}
+
+.singleCategoryMain .title{
+    margin-left: 20px;
+}
+
+.singleCategoryMain img{
+    padding: 20px;
+    width: 150px;
+    height: 120px;
+    background-size: cover
+}
+
+.singleCategoryMain p{
+    padding: 20px;
+}
+
+.subcategory{
+    justify-content: space-between;
+    display: flex;
+    margin: 20px 40px 5px;
+}
+
+.subcategory .price{
+    font-size: 16px;
+}
+
+ .btn{
+    margin: 20px; 
+    padding-right: 20px;
+}
+
+.btn .addBtn{
+    border: 3px solid #000000;
+    width: 150px;
+    height: 50px;
+    text-align: center;
+    padding: 10px
+}
+
+.btn .quantityBtn{
+    border: 3px solid #000000;
+    width: 150px;
+    height: 50px;
+    display: flex
+}
+
+.btn .quantityText{
+    margin: auto;
+}
+
+.subCategoryDescription{
+    padding: 20px 60px;
+}
